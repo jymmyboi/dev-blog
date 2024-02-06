@@ -24,7 +24,7 @@ LINKS = (
 
 DEFAULT_PAGINATION = False
 
-THEME = "C:/Users/james.seton/devsite/themes/Flex"
+THEME = "./themes/Flex"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
