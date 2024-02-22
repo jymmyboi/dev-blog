@@ -12,3 +12,5 @@ The blog is setup as a Pelican site.
 I am hosting the project on GitHub and will use GitHub actions to push this to an Azure App Service.
 
 If you stumble across this and have any questions please let me know!
+
+
