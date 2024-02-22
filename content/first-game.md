@@ -1,22 +1,14 @@
-Title: My First Game
-Date: 2024-02-06
+Title: Where to go from here
+Date: 2024-02-22
 
-###Starting the planning of my first ever full game
+###I have a blog now
 
-Today marks the start of the planning of my first full length game. I am not sure how long this will take me but I am hoping to have it out before 2 years are up.
+Today marks the start of the official blog/website
 
-For now the project will be called.
+**How this is built**
 
-**Project Ephemera**
+The blog is setup as a Pelican site.
 
-Set in Ancient Rome this game will take inspiration from games like:
+I am hosting the project on GitHub and will use GitHub actions to push this to an Azure App Service.
 
-- Silent Hill
-- Amnesia: The Dark Descent
-- Visage
-- Resident Evil 7
-
-This is a bold decision and it's one that I won't take lightly.
-
-My plan is to bang out a prototype with placeholders and possibly shop it around. I will probably also start a Vlog (time depending).
-
+If you stumble across this and have any questions please let me know!
