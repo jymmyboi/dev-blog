@@ -15,6 +15,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+ARTICLE_URL = '{slug}.html'
+
+DRAFT_URL = 'drafts/{slug}.html'
+
+PAGE_URL = 'pages/{slug}.html'
+
+DISABLE_URL_HASH = True
+
 # Blogroll
 LINKS = (
     ("Github", "https://github.com/jymmyboi"),
@@ -27,4 +35,4 @@ DEFAULT_PAGINATION = False
 THEME = "./themes/Flex"
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True

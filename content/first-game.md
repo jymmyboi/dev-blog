@@ -1,5 +1,6 @@
 Title: Where to go from here
 Date: 2024-02-22
+Slug: where-to-go-from-here
 
 ###I have a blog now
 
