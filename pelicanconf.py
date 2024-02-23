@@ -15,13 +15,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Slug settings
 ARTICLE_URL = '{slug}.html'
-
 DRAFT_URL = 'drafts/{slug}.html'
-
 PAGE_URL = 'pages/{slug}.html'
 
+# Flex Settings
 DISABLE_URL_HASH = True
+THEME_COLOR = 'dark'
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 # Blogroll
 LINKS = (
