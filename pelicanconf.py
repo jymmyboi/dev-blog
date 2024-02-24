@@ -16,9 +16,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Slug settings
-ARTICLE_URL = '{slug}.html'
-DRAFT_URL = 'drafts/{slug}.html'
-PAGE_URL = 'pages/{slug}.html'
+ARTICLE_URL = '{slug}'
+DRAFT_URL = 'drafts/{slug}'
+PAGE_URL = 'pages/{slug}'
 
 # Flex Settings
 DISABLE_URL_HASH = True
