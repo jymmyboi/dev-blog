@@ -6,7 +6,7 @@ PATH = "content"
 
 TIMEZONE = 'Australia/Adelaide'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -16,9 +16,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Slug settings
-ARTICLE_URL = '{slug}.html'
-DRAFT_URL = 'drafts/{slug}.html'
-PAGE_URL = 'pages/{slug}.html'
+ARTICLE_URL = '{slug}'
+DRAFT_URL = 'drafts/{slug}'
+PAGE_URL = 'pages/{slug}'
 
 # Flex Settings
 DISABLE_URL_HASH = True
